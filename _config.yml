@@ -1,0 +1,11 @@
+title: Data-Driven Democracy Hackathon
+minimal_mistakes_skin: default
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-remote-theme
